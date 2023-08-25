@@ -16,3 +16,11 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.field {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50px;
+
+  font-weight: bold;
+}
